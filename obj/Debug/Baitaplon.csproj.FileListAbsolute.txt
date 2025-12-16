@@ -1,0 +1,14 @@
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\bin\Debug\Baitaplon.exe.config
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\bin\Debug\Baitaplon.exe
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\bin\Debug\Baitaplon.pdb
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\obj\Debug\Baitaplon.csproj.AssemblyReference.cache
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\obj\Debug\Baitaplon.DangKy.resources
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\obj\Debug\Baitaplon.Dangnhap.resources
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\obj\Debug\Baitaplon.Giaodienchinh.resources
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\obj\Debug\Baitaplon.Properties.Resources.resources
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\obj\Debug\Baitaplon.csproj.GenerateResource.cache
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\obj\Debug\Baitaplon.csproj.CoreCompileInputs.cache
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\obj\Debug\Baitaplon.csproj.Up2Date
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\obj\Debug\Baitaplon.exe
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\obj\Debug\Baitaplon.pdb
+C:\Users\Quang Huy\source\repos\baitaplon\Baitaplon\bin\Debug\Guna.UI2.dll
